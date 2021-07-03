@@ -1,2 +1,2 @@
 # protype-app
-repo to test react native app with expo.io
+Repo to test react native app with expo.io
